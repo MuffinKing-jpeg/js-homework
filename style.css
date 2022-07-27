@@ -32,4 +32,18 @@ pre {
     border-color: #000000;
     border-style: solid;
     background-color: #0000000f;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+}
+
+.container {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+    min-height: 200px;
+    background-color: #0000000f;
+    border-radius: 1rem;
+
 }
